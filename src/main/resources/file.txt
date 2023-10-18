@@ -1,0 +1,6 @@
+switch A at (0, 0) is connected to B, E
+switch B at (2, 0) is connected to A, C, E
+switch C at (6, 0) is connected to B, D, E, F
+switch D at (9, 1) is connected to C, F
+switch E at (2, 5) is connected to A, B, C, F
+switch F at (5, 5) is connected to C, D, E
